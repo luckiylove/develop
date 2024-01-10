@@ -1,0 +1,9 @@
+{
+	"name": "jagtarsinghdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a775e7c-aef6-44a8-877b-6d145663c0db",
+		"tenantId": "82bf840a-a903-4451-a96d-4d8ba8e81930"
+	}
+}
