@@ -5,10 +5,10 @@
 		"annotations": [],
 		"type": "Salesforce",
 		"typeProperties": {
-			"environmentUrl": "https://landsec2--dev.sandbox.my.salesforce.com/",
-			"username": "svc-dev-salesforce-api@landsec.com.ls.dev",
+			"environmentUrl": "https://landsec2--prd.sandbox.my.salesforce.com/",
+			"username": "svc-prd-salesforce-api@landsec.com.ls.prd",
 			"apiVersion": "54.0",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEM0RUY5NUE4LUQ4NzQtNEZEQi1BMDk4LUM3RDIyNEFCOEQxNl83MWI5NzBlZi1lZDk3LTQ2ZGMtYjYxOC1kNDMxODYwYmRlZDYiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEM0RUY5NUE4LUQ4NzQtNEZEQi1BMDk4LUM3RDIyNEFCOEQxNl81YTAxMTY2OS1lZGJlLTQxMWYtODRmZC0yYzA0NTkzN2RkNjYiDQp9"
 		}
 	}
 }
